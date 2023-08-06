@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APE 13</string>
+    <string name="cam">Camera</string>
+    <string name="oneM">1M </string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="folll">800</string>
+    <string name="following">FOLLOWING</string>
+    <string name="name">Name</string>
+    <string name="address">Location</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="facebook">Facebook</string>
+    <string name="Twitter">Twitter</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="AddProfile">Save</string>
+</resources>
